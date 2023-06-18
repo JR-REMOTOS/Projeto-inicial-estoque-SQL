@@ -1,0 +1,24 @@
+C:\Users\JR CELL\source\repos\Progeto-Estoque\bin\Debug\Progeto-Estoque.exe.config
+C:\Users\JR CELL\source\repos\Progeto-Estoque\bin\Debug\Progeto-Estoque.exe
+C:\Users\JR CELL\source\repos\Progeto-Estoque\bin\Debug\Progeto-Estoque.pdb
+C:\Users\JR CELL\source\repos\Progeto-Estoque\obj\Debug\Progeto-Estoque.csproj.AssemblyReference.cache
+C:\Users\JR CELL\source\repos\Progeto-Estoque\obj\Debug\Progeto_Estoque.Properties.Resources.resources
+C:\Users\JR CELL\source\repos\Progeto-Estoque\obj\Debug\Progeto-Estoque.csproj.GenerateResource.cache
+C:\Users\JR CELL\source\repos\Progeto-Estoque\obj\Debug\Progeto-Estoque.csproj.CoreCompileInputs.cache
+C:\Users\JR CELL\source\repos\Progeto-Estoque\obj\Debug\Progeto-Estoque.exe
+C:\Users\JR CELL\source\repos\Progeto-Estoque\obj\Debug\Progeto-Estoque.pdb
+C:\Users\JR CELL\source\repos\Progeto-Estoque\obj\Debug\Progeto_Estoque.frmAdminDashboard.resources
+C:\Users\JR CELL\source\repos\Progeto-Estoque\obj\Debug\Progeto_Estoque.frmUserDashboard.resources
+C:\Users\JR CELL\source\repos\Progeto-Estoque\obj\Debug\Progeto_Estoque.Formularios.frmUsuarios.resources
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\Progeto-Estoque\bin\Debug\Progeto-Estoque.exe.config
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\Progeto-Estoque\bin\Debug\Progeto-Estoque.exe
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\Progeto-Estoque\bin\Debug\Progeto-Estoque.pdb
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\Progeto-Estoque\obj\Debug\Progeto-Estoque.csproj.AssemblyReference.cache
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\Progeto-Estoque\obj\Debug\Progeto_Estoque.frmAdminDashboard.resources
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\Progeto-Estoque\obj\Debug\Progeto_Estoque.frmUserDashboard.resources
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\Progeto-Estoque\obj\Debug\Progeto_Estoque.Formularios.frmUsuarios.resources
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\Progeto-Estoque\obj\Debug\Progeto_Estoque.Properties.Resources.resources
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\Progeto-Estoque\obj\Debug\Progeto-Estoque.csproj.GenerateResource.cache
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\Progeto-Estoque\obj\Debug\Progeto-Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\Progeto-Estoque\obj\Debug\Progeto-Estoque.exe
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\Progeto-Estoque\obj\Debug\Progeto-Estoque.pdb
